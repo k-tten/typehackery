@@ -34,7 +34,7 @@ Disclaimer: I don't claim to be one of the best at using the type system.
 I myself think that I am on the lower rungs of the ladder.
 I'm simply just putting information out there for those who want to go deeper, but don't know how to start.
 
-If you want to challenge yourself, try [mchccn/butcanyoudoitintypes][challenges].
+If you want to challenge yourself, try [k-tten/butcanyoudoitintypes][challenges].
 
 [skip]: ./concepts
 [duck]: https://en.wikipedia.org/wiki/Duck_typing
@@ -47,4 +47,4 @@ If you want to challenge yourself, try [mchccn/butcanyoudoitintypes][challenges]
 [fsm]: https://en.wikipedia.org/wiki/Finite-state_machine
 [fp]: https://en.wikipedia.org/wiki/Functional_programming
 [sound]: https://en.wikipedia.org/wiki/Soundness
-[challenges]: https://github.com/mchccn/butcanyoudoitintypes
+[challenges]: https://github.com/k-tten/butcanyoudoitintypes
