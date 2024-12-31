@@ -227,7 +227,7 @@ My goal here was to explain what and why, and so I'll leave you here with some t
 
 -   Covariance: **co**operate, `F<A>` and `F<B>` mirror `A` and `B`.
 -   Contravariance: **contra**dict, `F<A>` and `F<B>` are the opposite of `A` and `B`.
--   Invariarnce: **in**different, `F<A>` and `F<B>` are stubborn and indifferent to `A` and `B`.
+-   Invariance: **in**different, `F<A>` and `F<B>` are stubborn and indifferent to `A` and `B`.
 -   Bivariance: **bi**directional, `F<A>` and `F<B>` work both ways regardless of `A` and `B`.
 
 [variancenotes]: https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/#optional-variance-annotations-for-type-parameters
